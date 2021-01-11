@@ -1,3 +1,5 @@
 <?php get_header() ?>
 
-<?php get_footer()
+Hello Wordpress
+
+<?php get_footer() ?>
